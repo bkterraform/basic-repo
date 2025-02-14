@@ -1,2 +1,2 @@
 # basic-repo
-Description: This is my firest repo.
+Description: This is my first repo.
